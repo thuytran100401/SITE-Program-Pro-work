@@ -7,8 +7,9 @@ Submitted by: **Thuy Tran**
 Time spent: **24** hours spent in total
 
 Link to project:  
-  Live Code: https://glitch.com/edit/#!/sprinkle-aboard-feather
-  Site:
+  Live Code: https://glitch.com/edit/#!/light-and-sound-memory-game-thuy-tran
+  
+  Site: https://light-and-sound-memory-game-thuy-tran.glitch.me/
 
 ## Required Functionality
 
@@ -66,7 +67,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1q_uJDEgC6Z2x3GXTjwJ7xG3BlG3kI8JU/view?usp=sharing)
 
 ## License
 
