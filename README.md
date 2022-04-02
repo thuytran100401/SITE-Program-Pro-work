@@ -53,6 +53,7 @@ Here's a walkthrough of implemented user stories:
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+
    Some outsite resources that I used to help complete my submission are:
       StackOverflow: to search for if else loops in JavaScript.
       w3Schools: to learn how to generate random pattern for the game.
@@ -60,12 +61,15 @@ Here's a walkthrough of implemented user stories:
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+
    A challenge that I encountered in creating this submission was using the flow chart to  add the logic for the entire game. In order for the light and sound memory game to work correctly, I need to make sure that all of the steps and algorithms of the game work and connect with other features logically. However, it is pretty easier for me to get confused with incrementing the guess counter variable when the turn is over and with incrementing the progress variable when it is the last turn. My brother is also studying in Software Engineering and he has some experiences with web development and JavaScript. Therefore, I asked my brother to explain and walk me through all of the process of the game's logic so that I can understand everything correctly. It was relly helpful that my brother go over steps by steps for the logic of the game so that I could know where to start and when to end it. However, I also used Google and StackOverflow to learn more specificly about how to use if else loop in a function effectively. With the helps from my brother and online resources, I can finally overcome this challenging and finish this submission correctly. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+
    After completing my submission, some of the questions that I have about web development are how complicated it is to make a website work logically; are there a lot of CSS technicals that I have to learn to make a webpage look beatifull and reasonable; and why there are a lot of function within the JavaScript file. In my opinion, I think that this project is just a small project comparing to the real project that I might have to do in SITE program if I was accepted. Therefore, I feel like there are a lot of things that I need to learn about web development and hopefully I can learn more from this program. I think I have to learn more about how to make the function works logically in JavaScript and all of the technicals in CSS as well as in HTML. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+
    If I had a few more hours to work on this project, I would spend those times doing all the optional features that I have not finish yet and adding some additional to the game. I would use them to add images and alternative audio to the game buttons when the user clicked.  However, I will also add a ticking clock to this game to make it harder with limiting how much time that the player can have to make their guess for each turn. I might include the volume slider so that the player can control their volume level. By adding these features to the game, the users might feel more interesting and entertaining when playing the game.
    
 
