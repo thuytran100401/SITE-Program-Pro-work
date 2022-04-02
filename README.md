@@ -8,6 +8,7 @@ Time spent: **24** hours spent in total
 
 Link to project:  
   Live Code: https://glitch.com/edit/#!/light-and-sound-memory-game-thuy-tran
+  
   Site: https://light-and-sound-memory-game-thuy-tran.glitch.me/
 
 ## Required Functionality
